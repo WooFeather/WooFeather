@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20WooFeather&fontSize=50&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20WooFeather&fontSize=50&animation=twinkling&fontAlignY=40)
 </div>
 
 <h3 align="left">🤙 Contact Me</h3>
